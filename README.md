@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Lucas, I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
+
+
+
 <!--
 **lknknm/lknknm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
