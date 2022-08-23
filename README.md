@@ -1,9 +1,12 @@
 ### Hi there 👋
 I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
 
-- 🌱 I am currently studying at Harvard's CS50x course + engaging in some personal projects using Python.
+- 🌱 I am currently studying at Harvard's CS50x course + engaging in some personal Blender3D projects using Python.
 - 👯 Looking forward to collaborate on Open Source projects such as Blender3D, VSCode, Signal and much more.
+- 💬 If you ask me about anything we will nerd over tech, art, music, life (you name it) all day long.
 - ⚡ I also happen to be a musician, so share some love on my SoundCloud and Instagram!
+
+
 
 
 <!--
