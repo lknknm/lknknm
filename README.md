@@ -1,7 +1,9 @@
 ### Hi there 👋
+I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
 
-My name is Lucas, I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
-
+- 🌱 I am currently studying at Harvard's CS50x course + engaging in some personal projects using Python.
+- 👯 Looking forward to collaborate on Open Source projects such as Blender3D, VSCode, Signal and much more.
+- ⚡ I also happen to be a musician, so share some love on my SoundCloud and Instagram!
 
 
 <!--
