@@ -19,6 +19,8 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
   </a>
 </div>
 
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a> 
+
 
 <!--
 **lknknm/lknknm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
