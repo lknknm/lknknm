@@ -11,7 +11,7 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/-->
-  <a href="https://www.instagram.com/lkmlln" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/lkmlln_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" alt="Insta Badge"/>
   </a>
   <a href="https://soundcloud.com/lucas-mellone" target="_blank" rel="noopener noreferrer">
