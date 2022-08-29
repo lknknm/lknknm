@@ -7,7 +7,9 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
 - ⚡ I also happen to be a musician, so share some love on my SoundCloud and Instagram!
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/lkmlln/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" alt="Insta Badge"/>
   <img src="https://img.shields.io/badge/SoundCloud-ff5836?logo=soundcloud&logoColor=white&style=for-the-badge" alt="SoundCloud Badge"/>
