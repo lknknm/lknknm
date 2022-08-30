@@ -19,7 +19,7 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lknknm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lknknm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **lknknm/lknknm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
