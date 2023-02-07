@@ -4,7 +4,7 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
 - 🌱 I am currently studying at Harvard's CS50x course + engaging in some personal Blender3D projects using Python.
 - 👯 Looking forward to collaborate on Open Source projects such as Blender3D, VSCode, Signal Messenger and much more.
 - 💬 If you ask me about anything we will nerd over tech, art, music, life (you name it) all day long.
-- ⚡ I also happen to be a musician, so share some love on my SoundCloud and Instagram!
+- ⚡ I also happen to be a musician, so share some love on my Spotify and Instagram!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lkmlln/" target="_blank" rel="noopener noreferrer">
@@ -14,8 +14,8 @@ I'm a former Architect (the one who makes buildings), based on São Paulo, Brazi
   <a href="https://www.instagram.com/lkmlln_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" alt="Insta Badge"/>
   </a>
-  <a href="https://soundcloud.com/lucas-mellone" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SoundCloud-ff5836?logo=soundcloud&logoColor=white&style=for-the-badge" alt="SoundCloud Badge"/>
+  <a href="https://open.spotify.com/artist/1vgQRzogs13dtaLMIYtmdX" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" alt="SoundCloud Badge"/>
   </a>
 </div>
 
