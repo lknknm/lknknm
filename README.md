@@ -1,10 +1,11 @@
 ### Hi there 👋
 I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
+Devoted to solving highly complex problems and developing efficient tools. 
 
-- 🌱 I am currently studying at Harvard's CS50x course + engaging in some personal Blender3D projects using Python.
-- 👯 Looking forward to collaborate on Open Source projects such as Blender3D, VSCode, Signal Messenger and much more.
-- 💬 If you ask me about anything we will nerd over tech, art, music, life (you name it) all day long.
-- ⚡ I also happen to be a musician, so share some love on my Spotify and Instagram!
+Bachelor of Architecture and Urban Studies. Seeking to build meaningful software to solve the problems I encountered under many years of experience in the architecture field.
+- 5+ years of experience in architecture and urban studies.
+- 1 year of experience in programming and software development. I specially have some love for C/C++ and C#.
+- Deep passion and drive for music production, being a self-promoted independent artist (You can also check my work below!). 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lkmlln/" target="_blank" rel="noopener noreferrer">
