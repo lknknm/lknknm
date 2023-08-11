@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a former Architect (the one who makes buildings), based on São Paulo, Brazil.
+I'm a former Architect (the one who makes buildings) and Urban Planner.
 Devoted to solving highly complex problems and developing efficient tools. 
 
 Bachelor of Architecture and Urban Studies. Seeking to build meaningful software to solve the problems I encountered under many years of experience in the architecture field.
