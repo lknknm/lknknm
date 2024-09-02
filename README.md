@@ -4,7 +4,7 @@ Devoted to solving highly complex problems and developing efficient tools.
 
 Bachelor of Architecture and Urban Studies. Seeking to build meaningful software to solve the problems I encountered under many years of experience in the architecture field.
 - 5+ years of experience in architecture and urban studies.
-- 1 year of experience in programming and software development. I specially have some love for C/C++ and C#.
+- 2 years of experience in programming and software development. I specially have some love for C/C++.
 - Deep passion and drive for music production, being a self-promoted independent artist (You can also check my work below!). 
 
 <div id="badges">
