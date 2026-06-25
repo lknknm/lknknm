@@ -1,7 +1,8 @@
-### Hi there 👋
-Bachelor of Architecture and Urban Studies. Seeking to build meaningful software to solve the problems I encountered under many years of experience in the architecture field.
-- 5+ years of experience in architecture and urban studies.
-- 2 years of experience in programming and software development. I specially have some love for C/C++.
+C++ software engineer with deep focus on performance and standards-compliant generic programming.
+2 years production C++ experience in systems-level software (BIM engines, graphics pipelines).
+Specialised in C++20 features, memory optimization, and open source contribution.
+Architecture background bringing systems-thinking to software design.
+Actively engaged with modern C++ standards evolution and language design principles.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lkmlln/" target="_blank" rel="noopener noreferrer">
