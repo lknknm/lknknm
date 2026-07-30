@@ -1,6 +1,8 @@
 C++ software engineer with deep focus on performance and standards-compliant generic programming.
+
 2 years production C++ experience in systems-level software (BIM engines, graphics pipelines).
-Specialised in C++20 features, memory optimization, and open source contribution.
+
+Specialising in C++20 features, optimisation, and open source contribution.
 Architecture background bringing systems-thinking to software design.
 Actively engaged with modern C++ standards evolution and language design principles.
 
